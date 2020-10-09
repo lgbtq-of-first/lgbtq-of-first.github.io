@@ -1,0 +1,12 @@
+        h1,
+        h2,
+        h3,
+        h4 {
+            margin: 0;
+        }
+        
+        #h\.dpnxj68nwvrp,
+        #h\.f8sh4egif0f9,
+        #h\.sno4fvoxrbg8 {
+            display: none;
+        }
