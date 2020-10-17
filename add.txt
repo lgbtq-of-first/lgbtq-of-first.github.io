@@ -1,8 +1,21 @@
-        h1,
-        h2,
-        h3,
-        h4 {
-            margin: 0;
+<title>LGBTQ+ of FIRST Handbook</title>
+    
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta property="og:title" content="LGBTQ+ of FIRST Handbook" />
+    <meta property="og:description" content="Guidelines, procedures, and timelines for the operation of the LGBTQ+ of FIRST" />
+    <meta property="og:image" content="https://drive.google.com/uc?export=view&id=1QmOcBT14N2RcXHrawQt1asMKJ93GiS84" />
+    <link rel="icon" href="https://drive.google.com/uc?export=view&id=1QmOcBT14N2RcXHrawQt1asMKJ93GiS84">
+    <style type="text/css">
+        body {
+            margin-left: auto;
+            margin-right: auto;
+            width: 468pt;
+        }
+        
+        html,
+        body {
+            text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
         }
         
         #h\.dpnxj68nwvrp,
@@ -10,9 +23,11 @@
         #h\.sno4fvoxrbg8 {
             display: none;
         }
-
-        body {
-            margin-left: auto;
-            margin-right: auto;
-            width: 468pt;
+        
+        h1,
+        h2,
+        h3,
+        h4 {
+            margin: 0;
         }
+    </style>
